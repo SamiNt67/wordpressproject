@@ -5,3 +5,5 @@ Mi intención para la plantilla subida es convertir esta página en una de un pe
 Se anunciarán tanto productos físicos como eventos y clases para los amantes de los coches. 
 Una página web atractiva, con propósito de ofrecer los mejores productos y servicios del mundo motor. 
 
+Página finalizada: debido a que contiene algunas animaciones he realizado una grabación de pantalla que he añadido al repositorio.
+
